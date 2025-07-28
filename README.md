@@ -1,8 +1,8 @@
-#🔒 Componente de Input de Senha Interativo
+# 🔒 Componente de Input de Senha Interativo
 
 Campo de senha moderno com alternância de visibilidade, desenvolvido com CSS puro e JavaScript mínimo.
 
-##✨ Funcionalidades:
+## ✨ Funcionalidades:
 
 - Design limpo com bordas arredondadas e sombra sutil
 - Ícone interativo para mostrar/esconder senha
@@ -10,7 +10,7 @@ Campo de senha moderno com alternância de visibilidade, desenvolvido com CSS pu
 - Feedback visual ao alternar visibilidade
 - Sem dependências externas (JavaScript Vanilla)
 
-##🛠️ Tecnologias:
+## 🛠️ Tecnologias:
 
 - HTML5 semântico
 - CSS3 (Flexbox, position absolute)
